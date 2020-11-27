@@ -8,6 +8,7 @@ This repository will be kept up-to-date in the future, as soon as new release da
 
  * [2019](https://www.heise.de/mediadaten/ct/Termine-1849839.html)
  * [2020](https://www.heise.de/mediadaten/downloads/88/1/0/1/5/3/3/2/ct_Mediadaten_2020_Ansicht_neu.pdf)
+ * [2021](https://mediadaten.heise.de/en/produkte/print/europes-largest-it-and-tech-magazine/)
 
 ## Generating the `ics` file from CSV
 
